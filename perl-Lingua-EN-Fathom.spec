@@ -4,7 +4,6 @@
 #
 %define		pdir	Lingua
 %define		pnam	EN-Fathom
-%include	/usr/lib/rpm/macros.perl
 Summary:	Lingua::EN::Fathom - Measure readability of English text
 Summary(pl.UTF-8):	Lingua::EN::Fathom - określanie czytelności tekstu angielskiego
 Name:		perl-Lingua-EN-Fathom
