@@ -8,7 +8,7 @@ Summary:	Lingua::EN::Fathom - Measure readability of English text
 Summary(pl.UTF-8):	Lingua::EN::Fathom - określanie czytelności tekstu angielskiego
 Name:		perl-Lingua-EN-Fathom
 Version:	1.15
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
